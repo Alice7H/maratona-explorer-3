@@ -1,6 +1,7 @@
 <h1 align="center">
   <img alt="Capa" title="Capa" src="./assets/capa.png" />
 </h1>
+
 # RocketCoffee
 
 O projeto é um cardápio responsivo.
@@ -8,7 +9,7 @@ O projeto é um cardápio responsivo.
 ## Maratona Explorer 3.0
 
 - [x] Aula 1 (07/08/2022)
-- [ ] Aula 2 (08/08/2022)
+- [x] Aula 2 (08/08/2022)
 - [ ] Aula 3 (09/08/2022)
 - [ ] Encerramento
 
@@ -38,6 +39,32 @@ O projeto é um cardápio responsivo.
 
 - Código Final
   Construímos a primeira parte do projeto usando os elementos HTML.
+
+### Conteúdo da aula 2
+
+- CSS
+  Significa Cascading Style Sheets ou folha de estilo em cascata.
+
+  É responsável pela apresentação visual.
+
+- Declaração
+  São pedaços de código que ditam as propriedades e valores a serem aplicadas a um elemento HTML.
+
+- Cascata
+  Quando há 2 ou mais declarações, a última será mais relevante.
+  A cascata perde prioridade, dando lugar à especificidade.
+
+- Seletores
+  Eles definem quais elementos um conjunto de regras CSS se aplica.
+  Os elementos podem ser baseados por classe, id, nome por tag, etc.
+
+- Especificidade
+  Cada seletor tem um peso e a soma dos pesos será levada em conta para que determinada declaração seja mais específica.
+
+- Box Model
+  Baseado na abstração de que tudo são caixas.
+
+  Os elementos HTML serão considerados como caixas e possuirão propriedades como largura, altura, borda, preenchimento (espaço interno), espaçamento (espaço externo) e conteúdo.
 
 ## Link para o Projeto
 
